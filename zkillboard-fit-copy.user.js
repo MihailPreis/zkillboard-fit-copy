@@ -6,7 +6,7 @@
 // @author       M.Price
 // @copyright    © M.Price. See the LICENSE file for license rights and limitations (MIT).
 // @icon         https://raw.github.com/MihailPreis/zkillboard-fit-copy/main/icon.png
-// @updateURL    https://raw.github.com/MihailPreis/zkillboard-fit-copy/main/zkillboard-fit-copy.js
+// @updateURL    https://raw.github.com/MihailPreis/zkillboard-fit-copy/main/zkillboard-fit-copyzkillboard-fit-copy.user.js
 // @match        https://zkillboard.com/kill/*/
 // @run-at       document-start
 // @grant        GM_setClipboard
